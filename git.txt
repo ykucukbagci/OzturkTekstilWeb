@@ -2,3 +2,5 @@ git status
 git add *
 git commit -m "description"
 git push origin master
+
+deneme
